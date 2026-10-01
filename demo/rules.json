@@ -1,0 +1,10 @@
+[
+  {"folder":"06_Animaciones","keywords":["animacion","animaciones","recorrido","render","simulacion"]},
+  {"folder":"07_Secciones_Tipicas","keywords":["seccion tipica","secciones tipicas","subensamblaje","subassembly","assembly","cuneta","talud"]},
+  {"folder":"08_Corredores_y_Volumenes","keywords":["corredor","corredores","corridor","volumen","volumenes","movimiento de tierra","explanacion"]},
+  {"folder":"09_Alineamientos","keywords":["alineamiento","alineamientos","curva horizontal","tangente","progresiva"]},
+  {"folder":"10_Peraltes","keywords":["peralte","peraltes","bombeo","transicion de peralte"]},
+  {"folder":"11_Sobreanchos","keywords":["sobreancho","sobreanchos","ensanchamiento"]},
+  {"folder":"12_Diseno_Vertical","keywords":["rasante","subrasante","perfil","perfil longitudinal","pendiente","curva vertical"]},
+  {"folder":"15_Ploteo_y_Planos","keywords":["plot","ploteo","plano","planos","layout","sheet","impresion","viewframe","matchline"]}
+]
